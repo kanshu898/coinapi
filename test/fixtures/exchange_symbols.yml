@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  exchange_id: MyString
+  symbol_type: MyString
+  asset_id_base: MyString
+  asset_id_quote: MyString
+
+two:
+  exchange_id: MyString
+  symbol_type: MyString
+  asset_id_base: MyString
+  asset_id_quote: MyString

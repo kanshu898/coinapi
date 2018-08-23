@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  coin_symbol: MyString
+  name: MyString
+  designation: MyString
+  image_url: MyString
+  social_linkedin: MyString
+
+two:
+  coin_symbol: MyString
+  name: MyString
+  designation: MyString
+  image_url: MyString
+  social_linkedin: MyString

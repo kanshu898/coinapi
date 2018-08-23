@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyString
+  image_url: MyString
+  web_url: MyString
+  start_time: 2018-08-23 15:13:43
+  end_time: 2018-08-23 15:13:43
+  source: MyString
+  external_profile_url: MyString
+
+two:
+  name: MyString
+  description: MyString
+  image_url: MyString
+  web_url: MyString
+  start_time: 2018-08-23 15:13:43
+  end_time: 2018-08-23 15:13:43
+  source: MyString
+  external_profile_url: MyString
